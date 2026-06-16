@@ -1,6 +1,3 @@
-
----
-
 NFT Marketplace
 
 ```markdown
