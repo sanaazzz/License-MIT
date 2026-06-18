@@ -1,5 +1,4 @@
 NFT Marketplace
-
 ```markdown
 # NFT Marketplace
 
