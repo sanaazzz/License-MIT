@@ -6,6 +6,6 @@ Open-source NFT  smart contracts.
 - `NFT.sol` - ERC721 implementation
 - `Marketplace.sol` - Buy/sell listings
 - `.sol` - English auction
-## Testing
+## 
 ```bash
 npx
